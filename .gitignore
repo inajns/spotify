@@ -1,3 +1,9 @@
+#Data
+data/
+
+#access token
+.cache-inajns1711
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
