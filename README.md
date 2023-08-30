@@ -13,8 +13,9 @@ In order to use this script, you need to:
 - Create your developper app on https://developer.spotify.com/ and retrieve your client id and client secret
 - Have python installed (all the libraries that are used in this project are listed in requirements.txt)
 
-## Installation
-Run the following command to install the required python libraries:
+## Getting started
+First, clone this repository.
+Then, run the following command to install the required python libraries:
 
 ```sh
 pip install -r requirements.txt
